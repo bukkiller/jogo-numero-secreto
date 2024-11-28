@@ -7,5 +7,3 @@ if (numeroConta == 15020 ) {
 } else {
     alert ('Conta Incorreta! Tente novamente')
 }
-
-// teste pasta
